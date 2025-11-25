@@ -49,6 +49,8 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ---
+## DIAGRAM
+![WhatsApp Image 2025-11-25 at 2 47 08 PM](https://github.com/user-attachments/assets/a2048a68-6d66-46eb-a993-6631af1c7325)
 
 
 ## 📊 OBSERVATION AND CALCULATION
